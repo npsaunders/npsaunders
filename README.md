@@ -20,6 +20,12 @@
 
 <hr>
 
-## What I'm currently doing:
+## Activities / Hobbies
 
-### I'm doing a 3 month, intensive software engineering
+- Traveling
+- Astronomy
+- Sci-Fi movies
+- Astronomy
+- Home repairs/remodeling
+- Canoeing/kayaking
+- Hiking
