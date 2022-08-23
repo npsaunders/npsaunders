@@ -5,8 +5,13 @@
 ## _That's who I am_.
 
 <hr>
-<br>
 
 ## Skills:
 
 ![WordCloud](WordCloud.jpg)
+
+<hr>
+
+## What I'm currently doing:
+
+### I'm doing a 3 month, intensive software engineering bootcamp to rapidly improve my skill-set. I'm learning a lot! So many cool technologies...so little time:sweat_smile:
