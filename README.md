@@ -6,6 +6,7 @@
 
 <hr>
 <br>
-### Skills:
+
+## Skills:
 
 ![WordCloud](WordCloud.jpg)
