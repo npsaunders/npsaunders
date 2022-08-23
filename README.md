@@ -4,6 +4,8 @@
 
 ## _That's who I am_.
 
+### :eyes: at my LinkedIn. [Neil's LinkedIn](https://www.linkedin.com/in/neil-p-saunders/)
+
 <hr>
 
 ## Skills:
@@ -15,3 +17,9 @@
 ## What I'm currently doing:
 
 ### I'm doing a 3 month, intensive software engineering bootcamp to rapidly improve my skill-set. I'm learning a lot! So many cool technologies...so little time:sweat_smile:
+
+<hr>
+
+## What I'm currently doing:
+
+### I'm doing a 3 month, intensive software engineering
