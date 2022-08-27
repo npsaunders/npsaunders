@@ -16,7 +16,7 @@ A lot of times I succeeded. Other times I didn't. At the end of the day, you nev
 
 ---
 
-### :eyes: at my LinkedIn. [Neil's LinkedIn](https://www.linkedin.com/in/neil-p-saunders/)
+### :eyes: at my <u>[LinkedIn](https://www.linkedin.com/in/neil-p-saunders/)</u>
 
 ---
 
@@ -33,6 +33,8 @@ JavaScript
 jQuery
 
 Python
+
+VS Code
 
 Git/GitHub
 
