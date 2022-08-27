@@ -10,7 +10,25 @@
 
 ## Skills:
 
-![WordCloud](WordCloud.jpg)
+HTML
+
+CSS
+
+JavaScript
+
+jQuery
+
+Python
+
+Git/GitHub
+
+Jira/Confluence
+
+Debugging
+
+Agile
+
+M-AT/FS Meditech Languages
 
 <hr>
 
