@@ -12,7 +12,7 @@ None of these were easy. There were times I was told some of the things I had to
 
 A lot of times I succeeded. Other times I didn't. At the end of the day, you never fail if you don't try. I'll keep trying.
 
-## _That's who I am_.
+## _<u>That's who I am</u>_.
 
 ---
 
@@ -22,37 +22,43 @@ A lot of times I succeeded. Other times I didn't. At the end of the day, you nev
 
 ## Skills:
 
-Teamwork
-
-HTML
-
-CSS
-
-JavaScript
-
-jQuery
-
-Python
-
-VS Code
-
-Git/GitHub
-
-Jira/Confluence
-
-Data Structures & Algorithms
-
-Debugging
+Git
 
 Agile
 
-M-AT/FS Meditech Languages
+jQuery
+
+GitHub
+
+Teamwork
+
+Confluence
+
+Data Structures
+
+HTML/CSS/JavaScript
+
+Solving problems
+
+Algorithms
+
+Debugging
+
+Creativity
+
+VS Code
+
+GitHub
+
+Python
+
+Jira
 
 <hr>
 
 ## What I'm currently doing:
 
-### I'm doing a 3 month, intensive software engineering bootcamp to rapidly improve my skill-set. I'm learning a lot! So many cool technologies...so little time:sweat_smile:
+I'm doing a 3 month, intensive software engineering bootcamp to rapidly improve my skill-set. I'm learning a lot! So many cool technologies...so little time:sweat_smile:
 
 <hr>
 
